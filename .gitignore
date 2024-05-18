@@ -13,6 +13,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+virtenv/   # Добавляем вашу виртуальную среду
 *.egg-info/
 *.egg
 dist/
@@ -90,6 +91,7 @@ env/
 venv/
 env.bak/
 venv.bak/
+virtenv/   # Добавляем вашу виртуальную среду
 
 # Spyder project settings
 .spyderproject
